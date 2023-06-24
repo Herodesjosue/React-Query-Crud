@@ -1,0 +1,25 @@
+{
+  "Products": [
+    {
+      "id": 2,
+      "name": "laptop",
+      "description": "laptop gaming",
+      "price": 1000,
+      "instock": true
+    },
+    {
+      "name": "server",
+      "description": "servidor web",
+      "price": "1000",
+      "instock": false,
+      "id": 4
+    },
+    {
+      "name": "computadora",
+      "description": "gaming",
+      "price": "1000",
+      "instock": false,
+      "id": 5
+    }
+  ]
+}
